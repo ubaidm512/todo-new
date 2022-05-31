@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    background-image: url(img/photo-1611068813580-b07ef920964b.jpg);
+    position: sticky;
+    /* transform: none; */
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover;
+
+}
+.btn {
+    background-color:#330000;
+    color: red;
+}
+
+h1{
+    color: rgb(42, 42, 43);
+}
+
+#todo-item{
+    background-color: black;
+    color:#000000;
+}
+
+
+
+
+body{
+    background-color: #330000;
+}
+#todo-item{
+    padding: 15px;
+    border-radius: 25px;
+    border: 0px;
+    background-color: rgb(255, 249, 249);
+    list-style: none;
+}
+.colrr{
+    padding: 15px;
+    border-radius: 25px;
+    border: 0px;
+    
+}
+.container{
+margin-top: 50px;
+
+
+
+}
+#list{
+    color: #cec3c3;
+}
